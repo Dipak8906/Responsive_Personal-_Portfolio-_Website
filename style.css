@@ -693,5 +693,8 @@ footer span a:hover{
         
     
     }
-    
+    .home{
+        background: url("images/bn.jpg")  center;  
+    }
+   
 }
